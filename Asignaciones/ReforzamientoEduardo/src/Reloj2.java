@@ -18,7 +18,7 @@ public class Reloj2 {
             }
         }
         class DameUnMensaje {
-            String mensaje = "Este es mi mensaje."
+            String mensaje = "Este es mi mensaje.";
         }
 
         ActionListener oyente = new DameLaHora2();
